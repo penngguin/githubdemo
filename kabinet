@@ -1,0 +1,20 @@
+var cabinet = {
+    color : "white",
+    make : "carpenter",
+    handle : "sleved",
+    content : [{type : "shirt",
+color : "white",
+lock : "buttons",
+style : "collers",
+},"black bra",{type : "socks",
+color : "rainbow",
+length : "ankle socks"}, {type : "masks",
+mask1 : "black",
+mask2 : "yellow",
+mask3 : "purple"},function(){return "You are in the cabinet"} ],
+open : function(){return "You are in the cabinet"}
+
+
+
+
+}
